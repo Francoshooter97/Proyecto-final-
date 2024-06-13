@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HX/6WYcVBnvcr2Iw8mSoAsBmrdvIofpAEDZFw1SDGqb9is+eWZX4o5ecTQesOxcXRND1SgkongUwNG1MxaC6SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fr4nc\\OneDrive\\Desktop\\repositorio_coder\\Ejemplos_Clases\\EntregaFinal\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fr4nc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fr4nc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fr4nc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
